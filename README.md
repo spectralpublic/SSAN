@@ -31,56 +31,34 @@ Requirements:
 If you find the code and dataset useful in your research, please consider citing:
 
  
-    @ARTICLE{8909379,
+     @article{sun2020spectral,
+      title={Spectral--spatial attention network for hyperspectral image classification},
       author={Sun, Hao and Zheng, Xiangtao and Lu, Xiaoqiang and Wu, Siyuan},
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={Spectral–Spatial Attention Network for Hyperspectral Image Classification}, 
-      year={2020},
+      journal={IEEE Transactions on Geoscience and Remote Sensing},
       volume={58},
       number={5},
-      pages={3232-3245},
-      doi={10.1109/TGRS.2019.2951160}}
-
-    @ARTICLE{9347809,
-      author={Sun, Hao and Zheng, Xiangtao and Lu, Xiaoqiang},
-      journal={IEEE Transactions on Image Processing}, 
-      title={A Supervised Segmentation Network for Hyperspectral Image Classification}, 
-      year={2021},
-      volume={30},
-      number={},
-      pages={2810-2825},
-      doi={10.1109/TIP.2021.3055613}}
-
-    @ARTICLE{8844315,
-      author={Sun, Hao and Li, Siyuan and Zheng, Xiangtao and Lu, Xiaoqiang},
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={Remote Sensing Scene Classification by Gated Bidirectional Network}, 
+      pages={3232--3245},
       year={2020},
-      volume={58},
-      number={1},
-      pages={82-96},
-      doi={10.1109/TGRS.2019.2931801}}
+      publisher={IEEE}
+    }
 
-    @ARTICLE{8730481,
-      author={Lu, Xiaoqiang and Sun, Hao and Zheng, Xiangtao},
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={A Feature Aggregation Convolutional Neural Network for Remote Sensing Scene Classification}, 
-      year={2019},
-      volume={57},
-      number={10},
-      pages={7894-7906},
-      doi={10.1109/TGRS.2019.2917161}}
-    
-    @ARTICLE{8730481,
-      author={Lu, Xiaoqiang and Sun, Hao and Zheng, Xiangtao},
-      journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-      title={A Feature Aggregation Convolutional Neural Network for Remote Sensing Scene Classification}, 
-      year={2019},
-      volume={57},
-      number={10},
-      pages={7894-7906},
-      doi={10.1109/TGRS.2019.2917161}}
+    @article{sun2021supervised,
+      title={A supervised segmentation network for hyperspectral image classification},
+      author={Sun, Hao and Zheng, Xiangtao and Lu, Xiaoqiang},
+      journal={IEEE Transactions on Image Processing},
+      volume={30},
+      pages={2810--2825},
+      year={2021},
+      publisher={IEEE}
+    }
 
+    @article{yang2021cross,
+      title={Cross-Attention Spectral-Spatial Network for Hyperspectral Image Classification},
+      author={Yang, Kai and Sun, Hao and Zou, Chunbo and Lu, Xiaoqiang},
+      journal={IEEE Transactions on Geoscience and Remote Sensing},
+      year={2021},
+      publisher={IEEE}
+    }
 
 
 
